@@ -32,7 +32,7 @@ A flight booking flask API that provides users with ability to:
 ### Installation
 Clone the repo.
 ```
-$ git clone https://github.com/muthash/flight-booking-flask.git
+$ git clone https://github.com/arsenius4u/airline-python-old1.git
 ```
 and cd into the folder:
 ```
